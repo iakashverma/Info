@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash0277
+- 👋 Hi, I’m iakashverma
 - 📫 How to reach me akashverma0277@gmail.com
 
 <!---
