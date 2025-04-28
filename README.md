@@ -7,12 +7,24 @@
   <p>💬 Ask me about cricket</p>
   <br>
 
-  <h2>🌐 Socials:</h2>
-  <p>
-    <a href="https://facebook.com/akash"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://instagram.com/i.akashverma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/iakash"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </p>
+ <h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://facebook.com/akash" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/i.akashverma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/iakash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=iakash&icon=5&color=0)](https://visitcount.itsvg.in)
+  
+</div>
 
   <h1>💻 Tech Stack:</h1>
   <p>
