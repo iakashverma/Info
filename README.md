@@ -15,7 +15,7 @@
   <a href="https://instagram.com/i.akashverma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/iakash" target="_blank">
+  <a href="https://linkedin.com/in/iakashverma00" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
