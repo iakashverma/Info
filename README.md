@@ -38,16 +38,16 @@
 
   <h1>📊 GitHub Stats:</h1>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ashishsu1singh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=iakashverma&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsu1singh&theme=blue-green&hide_border=false" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakashverma&theme=blue-green&hide_border=false" alt="GitHub Streak Stats">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsu1singh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashverma&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   </p>
 
   <h2>🏆 GitHub Trophies</h2>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ashishsu1singh&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=iakashverma&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
 
   <h3>✍️ Random Dev Quote</h3>
@@ -56,7 +56,7 @@
   </p>
 
   <p>
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ashishsu1singh&icon=0&color=0" alt="Profile Views"></a>
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=iakashverma&icon=0&color=0" alt="Profile Views"></a>
   </p>
 
   <p> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
